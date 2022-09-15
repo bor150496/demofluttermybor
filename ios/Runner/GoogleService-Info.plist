@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>720331349637-61oifd40407s1rup5d03j44ss4qbkcrm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.720331349637-61oifd40407s1rup5d03j44ss4qbkcrm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>720331349637-g7mr1rfp5jp0hb34t6isauics3sbtnn7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD99hjuZITQiEDiUUqzxJK8UovgID1qlD0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>720331349637</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.borinnova.mybor</string>
+	<key>PROJECT_ID</key>
+	<string>mybor-caa09</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mybor-caa09.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:720331349637:ios:d20cae0003c7b311e353ec</string>
+</dict>
+</plist>
